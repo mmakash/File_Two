@@ -1,0 +1,8 @@
+steps 
+1.create package.json through the command npm init --y
+2.install nodemon package.
+2.in package.json file write start:nodemon index.js in scripts instead of previous text.
+3.require http,fs,url module.
+4.create server and listen server.
+5.create .gitignore file and write here node_modules
+6.create github ripository.
